@@ -1,0 +1,74 @@
+Header{
+    background-color: blue;
+    color: white;
+}
+
+.container{
+    background-color: lightgrey;
+    color: black;
+}
+
+#id2{
+    color: red;
+}
+
+.highlight{
+    color: green;
+}
+
+.main-content{
+    background-color: yellow;
+}
+
+#id5{
+    text-align: center;
+}
+
+a{
+    text-decoration-line: none;
+}
+
+h1{
+    text-decoration-line: underline;
+    text-decoration-style: dashed;   
+}
+h2{
+    text-decoration-line: underline;
+    text-decoration-style: dashed;   
+}
+h3{
+    text-decoration-line: underline;
+    text-decoration-style: dashed;   
+}
+h4{
+    text-decoration-line: underline;
+    text-decoration-style: dashed;   
+}
+h5{
+    text-decoration-line: underline;
+    text-decoration-style: dashed;   
+}
+h6{
+    text-decoration-line: underline;
+    text-decoration-style: dashed;   
+}
+
+.bold-text{
+    font-weight: bold;
+}
+#intro{
+    font-weight: 300;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.custom-font{
+    font-family: 'Times New Roman', Times, serif;
+}
+#id8{
+    text-transform: uppercase;
+}
+
+.capitalize-text{
+    text-transform: capitalize;
+}
